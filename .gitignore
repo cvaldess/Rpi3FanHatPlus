@@ -1,0 +1,15 @@
+# KiCad local and temporary files
+*.lck
+*.kicad_prl
+fp-info-cache
+*-backups/
+.history/
+
+# Loose fabrication outputs: the Gerbers and drill files are published in the zip
+HATPlus/fab/*.g*
+HATPlus/fab/*.drl
+
+# Old exports and third-party files that are not part of the design
+HATPlus/HAT+.csv
+HATPlus/datasheets/
+HATPlus/0141152434522.jpg
