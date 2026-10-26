@@ -7,6 +7,8 @@ fan controller and breaks out the Pi's UART and a PPS input for a **GNSS module*
 
 > **Status:** revision 1, not yet manufactured or tested.
 
+<a href="https://www.pcbway.com/project/shareproject/Rpi3FanHatPlus_d9ef2f33.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
+
 ## Features
 
 - **EMC2303** I²C fan controller on the Pi's I²C1 bus (address `0x2E`, `ALERT` on GPIO5).
