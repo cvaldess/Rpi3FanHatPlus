@@ -2,8 +2,7 @@
 
 Raspberry Pi 5 **HAT+** that drives the three fans of a case with a Microchip **EMC2303**
 fan controller and breaks out the Pi's UART and a PPS input for a **GNSS module** (J2).
-
-![3D view](HATPlus/PCB-3D.JPG)
+![Cover](Rpi3FanHatPlus-Cover.png)
 
 > **Status:** revision 1, not yet manufactured or tested.
 
@@ -20,6 +19,9 @@ fan controller and breaks out the Pi's UART and a PPS input for a **GNSS module*
 - **12 V input (J3)** for the fans, protected by a 0.5 A resettable fuse.
 - HAT+ ID EEPROM (AT24CS64) as required by the HAT+ specification.
 - 4-layer board, 65 × 56.5 mm HAT+ outline, M3 mounting holes. Designed to sit on top of a PoE HAT.
+
+![3D view](HATPlus/PCB-3D.JPG)
+![3D view](HATPlus/PCB-2D.JPG)
 
 ## Connectors
 
